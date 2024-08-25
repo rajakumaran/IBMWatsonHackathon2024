@@ -1,0 +1,5 @@
+# Default ignored files
+/.env
+/shelf/
+/workspace.
+/connect.py
