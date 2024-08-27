@@ -1,7 +1,14 @@
-# IBMWatsonHackathon2024
-IBM Watson Hackathon 2024 August
+# IBMWatsonAIHackathon2024
+<b>IBM Watson AI Hackathon 2024 August
+
+Here is the link to my live demo of our AW Wingman app talking to IBM watsonx.ai LLMs and AI providing answers in multiple languages.</b>
+This is 2nd and final part of our App's presentation.
+*************************************************************************
+https://youtu.be/Cmug1ib7fSQ
+*************************************************************************
 Installing Django
 Here are the steps to install Django:
+
 Step 1: Install Python
 Make sure you have Python installed on your system. You can download the latest version from the official Python website if you haven't already.
 
@@ -51,3 +58,13 @@ Run the following command to start the development server:
 Bash
 python manage.py runserver
 This will start the server and make your application available at http://localhost:8000/.
+
+NOTE: after you successfully install and run the mentioned commands,  you should be able to nav to http://localhost:8000/api/v1/
+and you can see the APIs for each table like this.
+
+{
+  "hotels": "http://localhost:8000/api/v1/hotels/",
+  "bookings": "http://localhost:8000/api/v1/bookings/",
+  "rooms": "http://localhost:8000/api/v1/rooms/",
+  "room-availability": "http://localhost:8000/api/v1/room-availability/"
+}
