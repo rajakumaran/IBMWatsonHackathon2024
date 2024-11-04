@@ -2,8 +2,12 @@
 <b>IBM Watson AI Hackathon 2024 August
 
 Here is the link to my live demo of our AW Wingman app talking to IBM watsonx.ai LLMs and AI providing answers in multiple languages.</b>
-This is 2nd and final part of our App's presentation.
 *************************************************************************
+You can watch 
+1) my presentation of Advanced Weather Wingman and its purpose by visiting our project page 
+https://lablab.ai/u/@Kumar_Algates
+
+2) This is 2nd and final part of our App's presentation.
 https://youtu.be/Cmug1ib7fSQ
 *************************************************************************
 Installing Django
